@@ -1,0 +1,395 @@
+.bg1 {
+  background-image: url(../img/hero.jpg);
+  height: 600px;
+}
+
+.bfooter {
+  background-image: url(../img/footer.jpg);
+  height: 600px;
+}
+
+.green{
+  color: #90EE90;
+  padding: 2%;
+}
+
+.blue{
+  color: #007bff;
+  padding: 2%;
+}
+
+.txt_rojo{
+  color: red;
+}
+
+.orang{
+  color: #fd7807;
+}
+
+.noir{
+  color: black;
+}
+
+.dosverde{
+  background-color: #4ee44e;
+  color: white;
+  padding: 5%;
+}
+
+.frouge{
+  background-color: #e03c24;
+  color: white;
+  padding: 5%;
+}
+
+/* Imagenes */
+
+.sporty{
+  background-image: url(../img/yoga.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 2%;
+}
+
+.apple{
+  background-image: url(../img/apple-watch.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 2%;
+}
+
+.jog{
+  background-image: url(../img/jogging.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 2%;
+}
+
+.beach{
+  background-image: url(../img/beach.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 2%;
+}
+
+.self{
+  background-image: url(../img/self-involved.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 2%;
+}
+
+.avocado{
+  background-image: url(../img/eating-habits.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 250px;
+  padding: 2%;
+}
+
+/* Parallax*/
+.parallax{
+  background-attachment: fixed;
+  background-position: 60% 60%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+  padding-top:50px;
+}
+
+
+p{
+  padding: 2%;
+}
+
+.posicion{
+	padding: 13%;
+}
+.cajablanca {
+  background-color: white;
+  width: 300px;
+  padding: 2%;
+  opacity: 0.5;
+   }
+
+.txtnegro{
+  color: black;
+  padding: 2%;
+  text-align: center;
+}
+
+h1{
+	color: white;
+  margin-top: 15%;
+}
+
+a {
+    text-decoration: none;
+    margin-top: 3%;
+    color: black;
+    margin-bottom: 1%;  }
+
+.blanco{
+	color: white;
+  padding: 2%;
+}
+
+.white{
+  background-color: white;
+}
+
+.ourworks {
+  background-color: transparent;
+  color: white; 
+  width: 300px;
+  padding: 3%;
+  }
+
+.working {
+  background-color: black;
+  color: white; 
+  width: 300px;
+  padding: 3%;
+  }
+
+.working:hover{
+  background-color: #00325e;
+  color: white;
+}
+
+.fondogris {
+  background-color: #DCDCDC; }
+
+.resize {
+  width: 100%;
+  padding: 0px;
+  display: block;
+  margin: auto; }
+
+.fondogo {
+  background-color: #808080;
+  color: white; }
+
+hr {
+  color: white; }
+
+.txt_centrado {
+  text-align: center; }
+
+.textogris {
+  color: #808080; }
+
+.contactar {
+  color: black;
+  background-color: #DCDCDC;
+  text-align: center;
+  margin: center;
+  margin-right: 2%; 
+  width: 100%;
+  }
+
+.cajaroja {
+  background-color: #FF0000;
+  color: white;
+  padding: 10%;
+  font-size: 2.123em;
+ }
+
+.spacing {
+  margin-top: 3%;
+  margin-bottom: 1%; }
+
+footer{
+	background-color: black;
+	color: white;
+  padding: 2%;
+  text-align: center;
+	}
+
+
+.ifooter{
+  border-radius: 40%; 
+  color: white;
+}
+
+.bloquefooter{
+    display: inline-block;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.iconoredondo {
+  border-radius: 40%;
+  color: white; }
+
+
+.whitebox{
+  background-color: white;
+  color: black;
+  width: 80%;
+  box-shadow: 5px 10px 18px #888888;
+  display: block;
+  margin: auto;
+}
+
+
+.blackbox{
+  background-color: black;
+  color: white;
+  padding: 8%;
+  font-size: 2em;
+}
+
+.margen{
+  margin-right: 3%; 
+}
+
+.mapa{
+  height: 450px;
+  width: 100%;
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+.size{
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+
+.botonNegro {
+    color: white;
+    background-color: black;
+    display: block;
+    margin: auto;
+    float: center;
+    border-radius: 12px;
+    padding: 13px 35px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    margin-top: 2%;
+    margin-bottom: 10%;}
+
+.botonNegro:hover{
+  background: red;
+  color: white;
+}
+
+.btnmessage{
+    color: white;
+    background-color: black;
+    display: block;
+    margin: left;
+    float: center;
+    border-radius: 8px;
+    padding: 13px 35px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
+    margin-top: 2%;
+}
+
+.btnfooter {
+    color: black;
+    width: 200px;
+    font-weight: bold;
+    background-color: white;
+    display: block;
+    margin: auto;
+    float: center;
+    border-radius: 12px;
+    padding: 13px 35px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1.124em;
+    font-family: "Lato", sans-serif;
+    margin-top: 2%;
+    margin-bottom: 3%;}
+
+.btnfooter:hover{
+  background-color: black;
+  color: white;
+}
+
+.cursiva{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.margin-r{
+  margin-left: 2%;
+}
+
+.margin-l{
+  margin-right: 10%;
+}
+
+/* Celular  Extra Small size display*/
+
+@media all and (max-width: 768px){
+  .jog{
+    height: 350px;
+  }
+
+   .avocado{
+    height: 350px;
+  }
+
+
+}
+
+/* Tablet  Small size display*/
+
+@media  all  and (min-width: 768px) and (max-width: 992px ){
+  .jog{
+    height: 300px;
+  }
+
+   .avocado{
+    height: 300px;
+  }
+
+
+}
+
+/* Laptop  Medium size display*/
+
+@media  all  and (min-width: 992px) and (max-width: 1200px ){
+  .jog{
+    height: 350px;
+  }
+
+   .avocado{
+    height: 350px;
+  }
+
+
+
+}
+
+
+/* Desktop  Large size display*/
+
+
+@media all and (min-width: 1200px){
+  .jog{
+    height: 250px;
+  }
+
+   .avocado{
+    height: 250px;
+  }
+
+
+
+}
+/*# sourceMappingURL=style.css.map */
